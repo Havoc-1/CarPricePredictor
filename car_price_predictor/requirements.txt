@@ -1,0 +1,15 @@
+Django>=3.2,<4.0
+numpy
+pandas
+scikit-learn
+shap
+plotly
+Pillow
+pytesseract
+fitz
+langchain
+langchain-text-splitters
+langchain-community
+langchain-ollama
+joblib
+```
